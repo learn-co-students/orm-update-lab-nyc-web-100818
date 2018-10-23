@@ -78,5 +78,3 @@ class Student
   end
 
 end
-
-**
